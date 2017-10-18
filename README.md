@@ -5,7 +5,7 @@
 * powp-lab-kod.pdf - Podstawowe techniki utrzymania wysokiej jakości kodu
 * powp-lab-bridge.pdf - Refaktoryzacja do wzorca bridge
 
-## ogólne zasady oceny pracy na laboratoriach
+##  ogólne zasady oceny pracy na laboratoriach
 
 Rozwiązanie zadań laboratoryjnych zgłasza się za pomocą Pull Request. 
 Podstawowy czas na wykonanie wszystkich zadań to 7 dni.

@@ -24,6 +24,7 @@ public class stackArray {
 			return -1;
 		return ITEMS[total]; 
 	}
+	//komentarze
 
 	public int pop() {
 		if (isEmpty())

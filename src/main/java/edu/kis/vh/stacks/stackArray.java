@@ -22,7 +22,7 @@ public class stackArray {
 	public int top() {
 		if (isEmpty())
 			return -1;
-		return ITEMS[total];
+		return ITEMS[total]; 
 	}
 
 	public int pop() {
